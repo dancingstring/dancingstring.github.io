@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 北极以北
 subtitle:
 description:
 author: wayne
@@ -71,3 +71,6 @@ deploy:
   type:
   
 duoshuo_shortname: aprilfish
+# Social links
+social:
+  GitHub: https://github.com/aprilfish
