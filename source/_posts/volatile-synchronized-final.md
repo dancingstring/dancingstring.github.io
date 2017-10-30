@@ -1,5 +1,6 @@
 ---
 title: 如何使用 volatile, synchronized, final 进行线程间通信
+date: 2017-08-19
 ---
 你是否真正理解并会用`volatile, synchronized, final`进行线程间通信呢，如果你不能回答下面的几个问题，那就说明你并没有真正的理解：
 
