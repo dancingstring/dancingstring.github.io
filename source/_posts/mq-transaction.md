@@ -27,7 +27,7 @@ date: 2017-11-05
 
 ## 最终一致性的几种做法
 
-### ![点击查看原始大小图片](https://och2wfgl0.qnssl.com/mq-transaction.png) 
+### ![点击查看原始大小图片](http://static.akali.xyz/rikka/mq-transaction.png) 
 
 ### 单数据库情况下的事务
 
