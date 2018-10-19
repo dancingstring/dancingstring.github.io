@@ -6,8 +6,9 @@
 title: 北极以北
 subtitle:
 description:
-author: wayne
-language:
+keywords:
+author: Wayne
+language: zh-Hans
 timezone:
 
 # URL
@@ -42,7 +43,16 @@ highlight:
   line_number: true
   auto_detect: false
   tab_replace:
-
+  
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+  
 # Category & Tag
 default_category: uncategorized
 category_map:
@@ -69,8 +79,14 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-  
-duoshuo_shortname: aprilfish
+
 # Social links
 social:
   GitHub: https://github.com/aprilfish
+  
+algolia:
+  applicationID: 'AIESL8NHKD'
+  apiKey: '73f4328b347cfa84c4d96c8f0ea59c26'
+  adminApiKey: '3e1db63645fb96d9b378aa7514bc7ecf'
+  indexName: 'aprilfish.in'
+  chunkSize: 5000
