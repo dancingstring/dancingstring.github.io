@@ -11,7 +11,6 @@ install:
 
 script:
   - export HEXO_ALGOLIA_INDEXING_KEY=${HEXO_ALGOLIA_INDEXING_KEY}
-  - hexo algolia
   - hexo generate
 
 after_script:
