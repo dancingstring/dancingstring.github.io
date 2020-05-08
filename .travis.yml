@@ -28,6 +28,6 @@ branches:
     - hexo-source
 env:
  global:
-   - GH_REF: github.com/aprilfish/aprilfish.github.io.git
+   - GH_REF: github.com/zhaohq90/zhaohq90.github.io.git
 notifications:
   webhooks: https://hook.bearychat.com/=bw8SX/travis/e142579261034054d121bf42c676e5a3
