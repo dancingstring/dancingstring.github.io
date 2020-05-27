@@ -82,11 +82,11 @@ deploy:
 
 # Social links
 social:
-  GitHub: https://github.com/aprilfish
+  GitHub: https://github.com/zhaohq90
   
 algolia:
-  applicationID: 'AIESL8NHKD'
-  apiKey: '73f4328b347cfa84c4d96c8f0ea59c26'
-  adminApiKey: '3e1db63645fb96d9b378aa7514bc7ecf'
-  indexName: 'aprilfish.in'
+  applicationID: 'VLPD6O8JE3'
+  indexName: 'hexo_search'
+  apiKey: '107207cb204a0c53b096db1c0252c573'
+  adminApiKey: '5e8670c0a4a0b8fb54e757bb04cfcc78'
   chunkSize: 5000

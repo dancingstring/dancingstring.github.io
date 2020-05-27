@@ -38,3 +38,21 @@ hexo g
 ```
 hexo server
 ```
+
+### algolia搜索使用
+
+安装
+```
+npm install --save hexo-algolia
+```
+
+配置环境变量
+```
+# windows环境使用set命令
+export HEXO_ALGOLIA_INDEXING_KEY=你的API Key
+```
+
+更新index
+```
+hexo algolia
+```
