@@ -411,8 +411,8 @@ gitment:
   lazy: false # Comments lazy loading with a button
   cleanly: false # Hide 'Powered by ...' on footer, and more
   language: # Force language, or auto switch by theme
-  github_user: aprilfish
-  github_repo: aprilfish.github.io
+  github_user: zhaohq90
+  github_repo: zhaohq90.github.io
   client_id: bd8581653ac0e0ab5c94
   client_secret: 1b40422997b514c19f26ba9537699831abc5a710
   proxy_gateway: # Address of api proxy, See: https://github.com/aimingoo/intersect
